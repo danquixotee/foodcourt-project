@@ -1,8 +1,5 @@
 # Unsrat Foodcourt - Sistem Manajemen Stok & Kantin
 
-![Login Screen](bg.png)
-*(Catatan: Kamu bisa mengganti "bg.png" di atas dengan screenshot aplikasi yang sebenarnya jika sudah di-upload ke GitHub)*
-
 ## 📖 Deskripsi
 **Unsrat Foodcourt** adalah aplikasi berbasis web yang dirancang untuk mempermudah pengelolaan operasional kantin, mulai dari manajemen stok barang hingga pemantauan aktivitas pengguna. Aplikasi ini dikembangkan sebagai bagian dari Tugas Besar/Proyek Akhir mata kuliah Rekayasa Perangkat Lunak.
 
@@ -67,10 +64,11 @@ Berikut adalah penjelasan singkat mengenai file-file utama dalam proyek ini:
     `http://localhost/foodcourt`
 
 ## 👥 Tim Pengembang
-Proyek ini disusun oleh Kelompok [Nomor Kelompok]:
-* **Nama Anggota 1** - NIM
-* **Nama Anggota 2** - NIM
-* **Nama Anggota 3** - NIM
+Proyek ini disusun oleh Kelompok A5:
+* **DANILL HENRY SUMOLANG** - NIM: 240211060011
+* **ANGGREINI PRISILIA LUMI** - NIM: 240211060010
+* **JONATHAN CHRISTIAN KONDOY** - NIM: 240211060015
+* **MARCHELLO ANDREAS LENGKONG** - NIM: 240211060045
 
 ---
 **Catatan:** Aplikasi ini dibuat untuk tujuan pendidikan dan simulasi sistem akademik.
