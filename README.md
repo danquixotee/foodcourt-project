@@ -37,7 +37,7 @@ Berikut adalah penjelasan singkat mengenai file-file utama dalam proyek ini:
 
 1.  **Clone Repository**
     ```bash
-    git clone [https://github.com/username-kamu/unsrat-foodcourt.git](https://github.com/username-kamu/unsrat-foodcourt.git)
+    git clone [https://github.com/danquixotee/foodcourt-project.git](https://github.com/danquixotee/foodcourt-project.git)
     ```
     Atau download ZIP dan ekstrak.
 
